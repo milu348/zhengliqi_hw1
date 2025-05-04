@@ -4,38 +4,38 @@
 		"generator" : 
 		{
 			"multiConfig" : false,
-			"name" : "Ninja"
+			"name" : "MinGW Makefiles"
 		},
 		"paths" : 
 		{
-			"cmake" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/cmake.exe",
-			"cpack" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/cpack.exe",
-			"ctest" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/ctest.exe",
-			"root" : "C:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28"
+			"cmake" : "E:/Cmake/bin/cmake.exe",
+			"cpack" : "E:/Cmake/bin/cpack.exe",
+			"ctest" : "E:/Cmake/bin/ctest.exe",
+			"root" : "E:/Cmake/share/cmake-3.31"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 28,
-			"patch" : 1,
-			"string" : "3.28.1",
+			"minor" : 31,
+			"patch" : 7,
+			"string" : "3.31.7",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-357409c8619efd820d81.json",
+			"jsonFile" : "codemodel-v2-e49280d65d4c7d72324d.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
 				"major" : 2,
-				"minor" : 6
+				"minor" : 7
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-481f72de5c1890774a1a.json",
+			"jsonFile" : "cache-v2-17304385f0254cd6c210.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,16 +44,16 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-544abb7638071aad1afa.json",
+			"jsonFile" : "cmakeFiles-v1-5866be0213e09af61eaf.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
 				"major" : 1,
-				"minor" : 0
+				"minor" : 1
 			}
 		},
 		{
-			"jsonFile" : "toolchains-v1-84713dac9d8a6a2c2425.json",
+			"jsonFile" : "toolchains-v1-681dd2b974b80dc8e0e5.json",
 			"kind" : "toolchains",
 			"version" : 
 			{
@@ -90,7 +90,7 @@
 				"responses" : 
 				[
 					{
-						"jsonFile" : "cache-v2-481f72de5c1890774a1a.json",
+						"jsonFile" : "cache-v2-17304385f0254cd6c210.json",
 						"kind" : "cache",
 						"version" : 
 						{
@@ -99,16 +99,16 @@
 						}
 					},
 					{
-						"jsonFile" : "codemodel-v2-357409c8619efd820d81.json",
+						"jsonFile" : "codemodel-v2-e49280d65d4c7d72324d.json",
 						"kind" : "codemodel",
 						"version" : 
 						{
 							"major" : 2,
-							"minor" : 6
+							"minor" : 7
 						}
 					},
 					{
-						"jsonFile" : "toolchains-v1-84713dac9d8a6a2c2425.json",
+						"jsonFile" : "toolchains-v1-681dd2b974b80dc8e0e5.json",
 						"kind" : "toolchains",
 						"version" : 
 						{
@@ -117,12 +117,12 @@
 						}
 					},
 					{
-						"jsonFile" : "cmakeFiles-v1-544abb7638071aad1afa.json",
+						"jsonFile" : "cmakeFiles-v1-5866be0213e09af61eaf.json",
 						"kind" : "cmakeFiles",
 						"version" : 
 						{
 							"major" : 1,
-							"minor" : 0
+							"minor" : 1
 						}
 					}
 				]

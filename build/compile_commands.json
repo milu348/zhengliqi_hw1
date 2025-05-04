@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/X-lab/git/test/zhengliqi_hw1/build",
+  "command": "E:\\mingw\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c F:\\X-lab\\git\\test\\zhengliqi_hw1\\src\\algebra.c",
+  "file": "F:/X-lab/git/test/zhengliqi_hw1/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "F:/X-lab/git/test/zhengliqi_hw1/build",
+  "command": "E:\\mingw\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c F:\\X-lab\\git\\test\\zhengliqi_hw1\\src\\main.c",
+  "file": "F:/X-lab/git/test/zhengliqi_hw1/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
